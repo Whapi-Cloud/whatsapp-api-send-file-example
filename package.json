@@ -2,7 +2,7 @@
   "name": "taskfilesend",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
     "start": "node --inspect -r ts-node/register index.js"
   },
